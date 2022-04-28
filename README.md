@@ -1,3 +1,4 @@
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 # Cartoonifier
 
 ### A image cartoonifier, build using Python and OpenCV.
@@ -7,7 +8,7 @@
  <img src="https://github.com/harshitasao/Cartoonifier/blob/master/image_cartoonified.jpg" alt="Before" height="300"  width="300"/>
  
  ### Prerequisites
- - Python
+ - Python 3.10.2
  - OpenCV
  - easygui
  - numpy
