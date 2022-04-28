@@ -54,7 +54,7 @@ def cartoonify(imagePath):
     # Appylying bilateral filter to remove noise and keep edge sharp
     colorImage = cv2.bilateralFilter(originalImage, 9, 400, 400)
 
-    # Masking the edged image our BEAUTIFY image
+    # Masking the edged image or BEAUTIFY image
     cartoonImage = cv2.bitwise_and(colorImage, colorImage, mask=getEdge)
     resized2 = cv2.resize(cartoonImage, (height, width))
 
