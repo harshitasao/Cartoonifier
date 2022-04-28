@@ -2,6 +2,7 @@
 # Cartoonifier
 
 ### A image cartoonifier, build using Python and OpenCV.
+#### Make a cartoon version of your photo and use it as your new profile picture.
  <h2>Original Image</h2>
  <img src="https://github.com/harshitasao/Cartoonifier/blob/master/image.jpg" alt="Before" height="300" width="300"/>
  <h2> Cartoonified Image</h2>
